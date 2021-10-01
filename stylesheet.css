@@ -78,3 +78,33 @@ margin-bottom: 1rem;
     width: 350px;
     border-radius: 5%;
 }
+
+.services{
+   
+    color:white
+    
+}
+
+.services img{
+
+    height: 600px;
+    width: 400px;
+    border: black;
+}
+
+footer{
+    color: white;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.contact img{
+    height:400px;
+    width: 500px;
+    
+}
